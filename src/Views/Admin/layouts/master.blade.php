@@ -14,7 +14,6 @@
     </title>
 
 
-
     @include('layouts.partials.head')
 </head>
 
